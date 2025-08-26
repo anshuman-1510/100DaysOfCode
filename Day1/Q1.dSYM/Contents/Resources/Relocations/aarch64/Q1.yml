@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/anshuman/Documents/GitHub/100DaysOfCode/Day1/Q1'
+relocations:     []
+...
