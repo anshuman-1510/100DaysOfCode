@@ -13,7 +13,7 @@ int main() {
     scanf("%d", &b);
 
     
-    temp = a;
+    temp = 
     a = b;
     b = temp;
 
