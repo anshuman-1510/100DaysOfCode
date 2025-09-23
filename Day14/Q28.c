@@ -4,7 +4,7 @@
 
 int main() {
     int n, i;
-    long long product = 1;
+    int product = 1;
 
     printf("Enter a number : ");
     scanf("%d", &n);
@@ -13,7 +13,7 @@ int main() {
         product *= i;
     }
 
-    printf("%lld\n", product);
+    printf("%d\n", product);
 
     return 0;
 }
